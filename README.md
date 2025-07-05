@@ -2,7 +2,7 @@
 <h1>🌐 SoftProtocols - Protocol Version Compatibility Plugin</h1>
 
 <p align="center">
-A lightweight PocketMine-MP plugin that <strong>exclusively handles protocol version compatibility</strong> during the initial handshake, allowing players with slightly different Minecraft versions to connect while maintaining all other packet behaviors unchanged.
+A lightweight PocketMine-MP plugin that <strong>exclusively handles protocol version compatibility</strong> during the initial handshake, allowing players with slightly different Minecraft Bedrock versions to connect while maintaining all other packet behaviors unchanged.
 
 [![State](https://poggit.pmmp.io/shield.state/SoftProtocols)](https://poggit.pmmp.io/p/SoftProtocols) [![API](https://poggit.pmmp.io/shield.api/SoftProtocols)](https://poggit.pmmp.io/p/SoftProtocols) [![Total Downloads](https://poggit.pmmp.io/shield.dl.total/SoftProtocols)](https://poggit.pmmp.io/p/SoftProtocols) [![GitHub License](https://img.shields.io/github/license/nicholass003/SoftProtocols)](LICENSE) [![Discord](https://img.shields.io/discord/1230982180742631457?logo=discord&logoColor=white&color=5865F2)](https://discord.gg/EEJK2vxtCp) 
 
